@@ -4,7 +4,7 @@ Tmux – терминальный мультиплексор
 :date: 2020-10-07 09:00
 :summary: Описание лабы
 :status: published
-:author: Эрихман М. Е.
+:author: Держаев А. А.
 
 .. default-role:: code
 .. contents:: Содержание
